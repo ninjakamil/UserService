@@ -1,5 +1,8 @@
 package SDA;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class App {
 
     public static void main(String[] args){
@@ -14,11 +17,9 @@ public class App {
 
         service.printAll();
 
-//        User user2 = new User();
-//        user2.setName("heniu");
-//        user2.setLastMame("kowal");
-//        user2.setLogin("hkowal");
-//        user2.setPassword("admin1");
+
+
+
 
 
 
